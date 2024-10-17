@@ -1,5 +1,5 @@
 /*Mark Estep
- * 10/9/24
+ * 10/9/24 -- 
  * Write the method isCommonFactor() which takes 3 positive integers, f, n, and m.  
  * isCommonFactor() returns true if f is a factor of n and m.  
  * (f is a common factor of n and m)
